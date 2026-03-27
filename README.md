@@ -75,10 +75,19 @@ This repository contains my learning and practical implementations from the **LL
 ## 📂 Repository Structure
 
 ```text
-week6/
-├── community-contributions/
-├── jsonl/
-└── pricer/
+.
+├── assets/                     # Images used in the README and supporting materials
+├── community-contributions/    # Shared community projects and experiments
+├── extras/                     # Additional exercises and trading/community material
+├── guides/                     # Reference notes and learning guides
+├── setup/                      # Environment and setup-related files
+├── week1/                      # Week 1 notebooks, solutions, and community submissions
+├── week2/                      # Week 2 notebooks and community submissions
+├── week3/                      # Week 3 notebooks and community submissions
+├── week4/                      # Week 4 notebooks and community submissions
+├── week5/                      # Week 5 exercises, implementations, evaluation, and community work
+├── week6/                      # Week 6 notebooks, pricer package, jsonl data, and community work
+└── week7/                      # Week 7 notebooks, pricer package, and community contributions
 ```
 
 ---
